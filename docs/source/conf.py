@@ -13,6 +13,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+from pathlib import Path
 
 
 # -- Project information -----------------------------------------------------
@@ -28,7 +29,15 @@ author = 'Adam Manzanares, Jesper Wendel Devantier, Joel Andres Granados'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'breathe'
 ]
+
+# '/path/to/flexalloc/docs/source/conf.py' -> '/path/to/flexalloc'
+flexalloc_root_dir = Path(__file__).resolve().parent.parent.parent
+breathe_projects = {
+    "flexalloc": str(flexalloc_root_dir / "apidocs" / "xml")
+}
+breathe_default_project = "flexalloc"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

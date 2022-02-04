@@ -38,3 +38,13 @@ jobs:
 
     - name: Generate docs
       run: python docs/build_docs.py
+
+    - name: Publish docs
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/build
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+        force_orphan: true
+        publish_branch: gh-pages

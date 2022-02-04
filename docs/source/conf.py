@@ -32,10 +32,11 @@ extensions = [
     'breathe'
 ]
 
-# '/path/to/flexalloc/docs/source/conf.py' -> '/path/to/flexalloc'
-flexalloc_root_dir = Path(__file__).resolve().parent.parent.parent
+# '/path/to/flexalloc/docs/source/conf.py' -> '/path/to/flexalloc/docs'
+docs_root = Path(__file__).resolve().parent.parent
+
 breathe_projects = {
-    "flexalloc": str(flexalloc_root_dir / "apidocs" / "xml")
+    "flexalloc": str(docs_root / "doxygen.build" / "xml")
 }
 breathe_default_project = "flexalloc"
 

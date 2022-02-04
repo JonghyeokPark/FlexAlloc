@@ -1,0 +1,36 @@
+name: Build docs
+
+on:
+  push:
+    branches:
+      - master
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  generate-docs:
+    runs-on: ubuntu-20.04
+
+    steps:
+    - name: Get source
+      uses: actions/checkout@v2
+
+    - name: Install doxygen
+      run: sudo apt-get install -y doxygen
+
+    - name: Prepare python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '>=3.9'
+
+    - name: Prepare Python virtual environment
+      uses: syphar/restore-virtualenv@v1
+      id: cache-docs-venv
+      with:
+        requirement_files: docs/requirements.txt
+        custom_virtualenv_dir: docs/.venv
+
+    - name: Generate docs
+      run: python docs/build_docs.py

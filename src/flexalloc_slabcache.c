@@ -228,6 +228,10 @@ fla_slab_cache_obj_alloc(struct fla_slab_flist_cache *cache, uint32_t slab_id,
 
   obj_id->slab_id = slab_id;
   obj_id->entry_ndx = entry_ndx;
+  // (jhpark): flashalloc 
+  // initialize the flashalloc count; this value is Cosmos+ board specific
+  // 128 means total number of pages in physical cosmos+ board
+  obj_id->flashalloc_cnt = 128;
 
   e->state = FLA_SLAB_CACHE_ELEM_DIRTY;
   return 0; // success

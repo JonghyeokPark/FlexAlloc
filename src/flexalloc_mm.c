@@ -19,6 +19,8 @@
 #include "flexalloc_slabcache.h"
 #include "flexalloc_shared.h"
 #include "flexalloc_znd.h"
+// (jhpark): flashalloc
+#include <libxnvme_flashalloc.h>     
 
 static inline bool
 fla_geo_zoned(const struct fla_geo *geo)
@@ -1433,9 +1435,11 @@ exit:
   return err;
 }
 
+// (jhpark): remove const due to the integration with the flashlloc API.
 int
 fla_object_write(struct flexalloc * fs, struct fla_pool const * pool_handle,
-                 struct fla_object const * obj, void const * buf, size_t w_offset, size_t w_len)
+                 struct fla_object * obj, void const * buf, size_t w_offset, size_t w_len)
+//                 struct fla_object const * obj, void const * buf, size_t w_offset, size_t w_len)
 {
   int err = 0;
   uint64_t obj_eoffset, obj_soffset, w_soffset, w_eoffset, slab_eoffset;
@@ -1444,6 +1448,19 @@ fla_object_write(struct flexalloc * fs, struct fla_pool const * pool_handle,
 
   obj_eoffset = fla_object_eoffset(fs, obj, pool_handle);
   obj_soffset = fla_object_soffset(fs, obj, pool_handle);
+
+  // (jhpark): flashalloc
+  struct xnvme_lba_range range_;  
+  if (obj->flashalloc_cnt == 128) { 
+    obj->flashalloc_cnt = 1;
+    range_ = xnvme_lba_range_from_offset_nbytes(fs->dev.dev, obj_soffset, w_len);   
+    err = xnvme_flashalloc(fs->dev.dev, range_.slba, 128);     
+    if (err) {   
+      xnvmec_perr("xnvme_flashalloc()", err);
+    }
+  }
+  obj->flashalloc_cnt++;
+
   w_soffset = obj_soffset + w_offset;
   w_eoffset = w_soffset + w_len;
   obj_zn = w_soffset / (fs->geo.nzsect * fla_fs_lb_nbytes(fs));

@@ -37,6 +37,8 @@ struct fla_object
   uint32_t slab_id;
   /// offset of object within the slab
   uint32_t entry_ndx;
+  /// (jhpark): flashalloc; flashalloc count this variable is cosmos+ specific  
+  uint32_t flashalloc_cnt;
 };
 
 

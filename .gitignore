@@ -68,3 +68,4 @@ dkms.conf
 #ignore IDE files
 .idea
 .vscode
+*.cscope

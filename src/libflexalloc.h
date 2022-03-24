@@ -208,9 +208,11 @@ fla_object_read(struct flexalloc const * fs, struct fla_pool const * pool,
  * @param len Number of bytes to write
  * @return Zero on success. non zero otherwise
  */
+// (jhpark): remove const due to the integration with the flashlloc API.
 int
 fla_object_write(struct flexalloc * fs, struct fla_pool const * pool,
-                 struct fla_object const * object, void const * buf, size_t offset, size_t len);
+                 struct fla_object * object, void const * buf, size_t offset, size_t len);
+//                 struct fla_object const * object, void const * buf, size_t offset, size_t len);
 
 /**
  * @brief Same as fla_object_write but offset and len can be unaligned values

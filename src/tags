@@ -1,0 +1,782 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARG_BUFLEN	flexalloc_cli_common.c	4;"	d	file:
+BUF_SIZE	flexalloc_daemon_base.c	20;"	d	file:
+CDL_APPEND	flexalloc_utlist.h	860;"	d
+CDL_APPEND2	flexalloc_utlist.h	863;"	d
+CDL_APPEND_ELEM	flexalloc_utlist.h	1040;"	d
+CDL_APPEND_ELEM2	flexalloc_utlist.h	1026;"	d
+CDL_COUNT	flexalloc_utlist.h	940;"	d
+CDL_COUNT2	flexalloc_utlist.h	943;"	d
+CDL_DELETE	flexalloc_utlist.h	926;"	d
+CDL_DELETE2	flexalloc_utlist.h	929;"	d
+CDL_FOREACH	flexalloc_utlist.h	949;"	d
+CDL_FOREACH2	flexalloc_utlist.h	952;"	d
+CDL_FOREACH_SAFE	flexalloc_utlist.h	955;"	d
+CDL_FOREACH_SAFE2	flexalloc_utlist.h	958;"	d
+CDL_INSERT_INORDER	flexalloc_utlist.h	894;"	d
+CDL_INSERT_INORDER2	flexalloc_utlist.h	1046;"	d
+CDL_INSERT_INORDER2	flexalloc_utlist.h	1047;"	d
+CDL_INSERT_INORDER2	flexalloc_utlist.h	897;"	d
+CDL_LOWER_BOUND	flexalloc_utlist.h	910;"	d
+CDL_LOWER_BOUND2	flexalloc_utlist.h	913;"	d
+CDL_PREPEND	flexalloc_utlist.h	877;"	d
+CDL_PREPEND2	flexalloc_utlist.h	880;"	d
+CDL_PREPEND_ELEM	flexalloc_utlist.h	1023;"	d
+CDL_PREPEND_ELEM2	flexalloc_utlist.h	1006;"	d
+CDL_REPLACE_ELEM	flexalloc_utlist.h	1003;"	d
+CDL_REPLACE_ELEM2	flexalloc_utlist.h	983;"	d
+CDL_SEARCH	flexalloc_utlist.h	973;"	d
+CDL_SEARCH2	flexalloc_utlist.h	976;"	d
+CDL_SEARCH_SCALAR	flexalloc_utlist.h	963;"	d
+CDL_SEARCH_SCALAR2	flexalloc_utlist.h	966;"	d
+CDL_SORT	flexalloc_utlist.h	235;"	d
+CDL_SORT2	flexalloc_utlist.h	238;"	d
+DECLTYPE	flexalloc_uthash.h	50;"	d
+DECLTYPE	flexalloc_uthash.h	57;"	d
+DECLTYPE	flexalloc_uthash.h	62;"	d
+DECLTYPE_ASSIGN	flexalloc_uthash.h	63;"	d
+DECLTYPE_ASSIGN	flexalloc_uthash.h	69;"	d
+DL_APPEND	flexalloc_utlist.h	636;"	d
+DL_APPEND2	flexalloc_utlist.h	639;"	d
+DL_APPEND_ELEM	flexalloc_utlist.h	821;"	d
+DL_APPEND_ELEM2	flexalloc_utlist.h	803;"	d
+DL_CONCAT	flexalloc_utlist.h	685;"	d
+DL_CONCAT2	flexalloc_utlist.h	688;"	d
+DL_COUNT	flexalloc_utlist.h	725;"	d
+DL_COUNT2	flexalloc_utlist.h	728;"	d
+DL_DELETE	flexalloc_utlist.h	703;"	d
+DL_DELETE2	flexalloc_utlist.h	706;"	d
+DL_FOREACH	flexalloc_utlist.h	734;"	d
+DL_FOREACH2	flexalloc_utlist.h	737;"	d
+DL_FOREACH_SAFE	flexalloc_utlist.h	741;"	d
+DL_FOREACH_SAFE2	flexalloc_utlist.h	744;"	d
+DL_INSERT_INORDER	flexalloc_utlist.h	653;"	d
+DL_INSERT_INORDER2	flexalloc_utlist.h	656;"	d
+DL_INSERT_INORDER2	flexalloc_utlist.h	827;"	d
+DL_INSERT_INORDER2	flexalloc_utlist.h	828;"	d
+DL_LOWER_BOUND	flexalloc_utlist.h	669;"	d
+DL_LOWER_BOUND2	flexalloc_utlist.h	672;"	d
+DL_PREPEND	flexalloc_utlist.h	621;"	d
+DL_PREPEND2	flexalloc_utlist.h	624;"	d
+DL_PREPEND_ELEM	flexalloc_utlist.h	800;"	d
+DL_PREPEND_ELEM2	flexalloc_utlist.h	782;"	d
+DL_REPLACE_ELEM	flexalloc_utlist.h	779;"	d
+DL_REPLACE_ELEM2	flexalloc_utlist.h	753;"	d
+DL_SEARCH	flexalloc_utlist.h	749;"	d
+DL_SEARCH2	flexalloc_utlist.h	751;"	d
+DL_SEARCH_SCALAR	flexalloc_utlist.h	748;"	d
+DL_SEARCH_SCALAR2	flexalloc_utlist.h	750;"	d
+DL_SORT	flexalloc_utlist.h	172;"	d
+DL_SORT2	flexalloc_utlist.h	175;"	d
+ELMT_FROM_HH	flexalloc_uthash.h	135;"	d
+FLA_CEIL_DIV	flexalloc_util.h	128;"	d
+FLA_DAEMON_FD_FREE	flexalloc_daemon_base.c	22;"	d	file:
+FLA_DAEMON_POLL_INF	flexalloc_daemon_base.c	23;"	d	file:
+FLA_DBG_EXEC	flexalloc_util.h	116;"	d
+FLA_DBG_EXEC	flexalloc_util.h	121;"	d
+FLA_DBG_PRINT	flexalloc_util.h	106;"	d
+FLA_DBG_PRINT	flexalloc_util.h	119;"	d
+FLA_DBG_PRINTF	flexalloc_util.h	111;"	d
+FLA_DBG_PRINTF	flexalloc_util.h	120;"	d
+FLA_DBG_PRX	flexalloc_util.h	104;"	d
+FLA_DBG_PRX	flexalloc_util.h	118;"	d
+FLA_ERR	flexalloc_util.h	49;"	d
+FLA_ERRNO_VAL	flexalloc_util.h	28;"	d
+FLA_ERR_ALL_SLABS_USED	flexalloc_shared.h	11;"	d
+FLA_ERR_ERRNO	flexalloc_util.h	84;"	d
+FLA_ERR_ERROR	flexalloc_shared.h	10;"	d
+FLA_ERR_PRINT	flexalloc_util.h	18;"	d
+FLA_ERR_PRINTF	flexalloc_util.h	23;"	d
+FLA_ERR_PRX	flexalloc_util.h	16;"	d
+FLA_FMT_VER	flexalloc_mm.h	16;"	d
+FLA_FREELIST_U32_ELEMS	flexalloc_freelist.h	9;"	d
+FLA_HTBL_COMPRESS	flexalloc_hash.h	15;"	d
+FLA_HTBL_ENTRY_UNSET	flexalloc_hash.h	12;"	d
+FLA_HTBL_H1	flexalloc_hash.h	13;"	d
+FLA_HTBL_H2	flexalloc_hash.h	14;"	d
+FLA_LINKED_LIST_NULL	flexalloc_ll.h	7;"	d
+FLA_MAGIC	flexalloc_mm.h	15;"	d
+FLA_MKFS_SHOW_USAGE	flexalloc_mkfs.c	18;"	d	file:
+FLA_MSG_BUFSIZ	flexalloc_daemon_base.h	82;"	d
+FLA_MSG_CMD_IDENTIFY	flexalloc_daemon_base.h	39;"	d
+FLA_MSG_CMD_INIT_INFO	flexalloc_daemon_base.h	54;"	d
+FLA_MSG_CMD_NULL	flexalloc_daemon_base.h	38;"	d
+FLA_MSG_CMD_OBJECT_CREATE	flexalloc_daemon_base.h	50;"	d
+FLA_MSG_CMD_OBJECT_DESTROY	flexalloc_daemon_base.h	51;"	d
+FLA_MSG_CMD_OBJECT_OPEN	flexalloc_daemon_base.h	49;"	d
+FLA_MSG_CMD_POOL_CLOSE	flexalloc_daemon_base.h	43;"	d
+FLA_MSG_CMD_POOL_CREATE	flexalloc_daemon_base.h	44;"	d
+FLA_MSG_CMD_POOL_DESTROY	flexalloc_daemon_base.h	45;"	d
+FLA_MSG_CMD_POOL_GET_ROOT_OBJECT	flexalloc_daemon_base.h	47;"	d
+FLA_MSG_CMD_POOL_OPEN	flexalloc_daemon_base.h	42;"	d
+FLA_MSG_CMD_POOL_SET_ROOT_OBJECT	flexalloc_daemon_base.h	46;"	d
+FLA_MSG_CMD_SYNC	flexalloc_daemon_base.h	40;"	d
+FLA_MSG_CMD_SYNC_NO_RSPS	flexalloc_daemon_base.h	52;"	d
+FLA_MSG_DATA	flexalloc_daemon_base.h	87;"	d
+FLA_MSG_DATA_MAX	flexalloc_daemon_base.h	80;"	d
+FLA_MSG_HDR	flexalloc_daemon_base.h	85;"	d
+FLA_NAME_SIZE	flexalloc_mm.h	21;"	d
+FLA_NAME_SIZE_POOL	flexalloc_mm.h	22;"	d
+FLA_ROOT_OBJ_NONE	flexalloc_mm.h	25;"	d
+FLA_SLAB_CACHE_ELEM_CLEAN	flexalloc_slabcache.h	/^  FLA_SLAB_CACHE_ELEM_CLEAN = 2,$/;"	e	enum:fla_slab_flist_elem_state
+FLA_SLAB_CACHE_ELEM_DIRTY	flexalloc_slabcache.h	/^  FLA_SLAB_CACHE_ELEM_DIRTY = 1,$/;"	e	enum:fla_slab_flist_elem_state
+FLA_SLAB_CACHE_ELEM_STALE	flexalloc_slabcache.h	/^  FLA_SLAB_CACHE_ELEM_STALE = 0,$/;"	e	enum:fla_slab_flist_elem_state
+FLA_SLAB_CACHE_INVALID_STATE	flexalloc_slabcache.h	50;"	d
+FLA_STATE_OPEN	flexalloc_mm.h	19;"	d
+FLA_SUPER_SLBA	flexalloc_mm.h	17;"	d
+FLA_SYS_FLEXALLOC_TYPE	flexalloc_daemon_base.h	66;"	d
+FLA_SYS_FLEXALLOC_V1	flexalloc_daemon_base.h	67;"	d
+FLA_VBS_PRINTF	flexalloc_util.h	95;"	d
+FLA_VBS_PRINTF	flexalloc_util.h	97;"	d
+FLEXALLOC_DAEMON_BASE_H_	flexalloc_daemon_base.h	9;"	d
+FLEXALLOC_SHARED_H_	flexalloc_shared.h	2;"	d
+HASH_ADD	flexalloc_uthash.h	428;"	d
+HASH_ADD_BYHASHVALUE	flexalloc_uthash.h	425;"	d
+HASH_ADD_BYHASHVALUE_INORDER	flexalloc_uthash.h	391;"	d
+HASH_ADD_INORDER	flexalloc_uthash.h	394;"	d
+HASH_ADD_INT	flexalloc_uthash.h	498;"	d
+HASH_ADD_KEYPTR	flexalloc_uthash.h	418;"	d
+HASH_ADD_KEYPTR_BYHASHVALUE	flexalloc_uthash.h	397;"	d
+HASH_ADD_KEYPTR_BYHASHVALUE_INORDER	flexalloc_uthash.h	351;"	d
+HASH_ADD_KEYPTR_INORDER	flexalloc_uthash.h	384;"	d
+HASH_ADD_PTR	flexalloc_uthash.h	504;"	d
+HASH_ADD_STR	flexalloc_uthash.h	486;"	d
+HASH_ADD_TO_BKT	flexalloc_uthash.h	763;"	d
+HASH_ADD_TO_TABLE	flexalloc_uthash.h	314;"	d
+HASH_ADD_TO_TABLE	flexalloc_uthash.h	338;"	d
+HASH_AKBI_INNER_LOOP	flexalloc_uthash.h	287;"	d
+HASH_AKBI_INNER_LOOP	flexalloc_uthash.h	297;"	d
+HASH_AKBI_INNER_LOOP	flexalloc_uthash.h	298;"	d
+HASH_APPEND_LIST	flexalloc_uthash.h	279;"	d
+HASH_BER	flexalloc_uthash.h	584;"	d
+HASH_BKT_CAPACITY_THRESH	flexalloc_uthash.h	132;"	d
+HASH_BLOOM_ADD	flexalloc_uthash.h	199;"	d
+HASH_BLOOM_ADD	flexalloc_uthash.h	208;"	d
+HASH_BLOOM_BITLEN	flexalloc_uthash.h	177;"	d
+HASH_BLOOM_BITSET	flexalloc_uthash.h	196;"	d
+HASH_BLOOM_BITTEST	flexalloc_uthash.h	197;"	d
+HASH_BLOOM_BYTELEN	flexalloc_uthash.h	178;"	d
+HASH_BLOOM_BYTELEN	flexalloc_uthash.h	210;"	d
+HASH_BLOOM_FREE	flexalloc_uthash.h	191;"	d
+HASH_BLOOM_FREE	flexalloc_uthash.h	207;"	d
+HASH_BLOOM_MAKE	flexalloc_uthash.h	179;"	d
+HASH_BLOOM_MAKE	flexalloc_uthash.h	206;"	d
+HASH_BLOOM_SIGNATURE	flexalloc_uthash.h	1088;"	d
+HASH_BLOOM_TEST	flexalloc_uthash.h	202;"	d
+HASH_BLOOM_TEST	flexalloc_uthash.h	209;"	d
+HASH_CLEAR	flexalloc_uthash.h	1033;"	d
+HASH_CNT	flexalloc_uthash.h	1063;"	d
+HASH_COUNT	flexalloc_uthash.h	1062;"	d
+HASH_DEL	flexalloc_uthash.h	508;"	d
+HASH_DELETE	flexalloc_uthash.h	448;"	d
+HASH_DELETE_HH	flexalloc_uthash.h	451;"	d
+HASH_DEL_IN_BKT	flexalloc_uthash.h	785;"	d
+HASH_EMIT_KEY	flexalloc_uthash.h	573;"	d
+HASH_EMIT_KEY	flexalloc_uthash.h	580;"	d
+HASH_EXPAND_BUCKETS	flexalloc_uthash.h	829;"	d
+HASH_FIND	flexalloc_uthash.h	166;"	d
+HASH_FIND_BYHASHVALUE	flexalloc_uthash.h	154;"	d
+HASH_FIND_INT	flexalloc_uthash.h	496;"	d
+HASH_FIND_IN_BKT	flexalloc_uthash.h	741;"	d
+HASH_FIND_PTR	flexalloc_uthash.h	502;"	d
+HASH_FIND_STR	flexalloc_uthash.h	481;"	d
+HASH_FNV	flexalloc_uthash.h	607;"	d
+HASH_FSCK	flexalloc_uthash.h	517;"	d
+HASH_FSCK	flexalloc_uthash.h	566;"	d
+HASH_FUNCTION	flexalloc_uthash.h	89;"	d
+HASH_INITIAL_NUM_BUCKETS	flexalloc_uthash.h	130;"	d
+HASH_INITIAL_NUM_BUCKETS_LOG2	flexalloc_uthash.h	131;"	d
+HASH_ITER	flexalloc_uthash.h	1052;"	d
+HASH_ITER	flexalloc_uthash.h	1056;"	d
+HASH_JEN	flexalloc_uthash.h	646;"	d
+HASH_JEN_MIX	flexalloc_uthash.h	633;"	d
+HASH_KEYCMP	flexalloc_uthash.h	93;"	d
+HASH_MAKE_TABLE	flexalloc_uthash.h	213;"	d
+HASH_NONFATAL_OOM	flexalloc_uthash.h	104;"	d
+HASH_OAT	flexalloc_uthash.h	618;"	d
+HASH_OOPS	flexalloc_uthash.h	516;"	d
+HASH_OVERHEAD	flexalloc_uthash.h	1044;"	d
+HASH_RECORD_OOM	flexalloc_uthash.h	114;"	d
+HASH_RECORD_OOM	flexalloc_uthash.h	124;"	d
+HASH_REPLACE	flexalloc_uthash.h	265;"	d
+HASH_REPLACE_BYHASHVALUE	flexalloc_uthash.h	255;"	d
+HASH_REPLACE_BYHASHVALUE_INORDER	flexalloc_uthash.h	245;"	d
+HASH_REPLACE_INORDER	flexalloc_uthash.h	272;"	d
+HASH_REPLACE_INT	flexalloc_uthash.h	500;"	d
+HASH_REPLACE_PTR	flexalloc_uthash.h	506;"	d
+HASH_REPLACE_STR	flexalloc_uthash.h	491;"	d
+HASH_ROLLBACK_BKT	flexalloc_uthash.h	139;"	d
+HASH_SAX	flexalloc_uthash.h	597;"	d
+HASH_SELECT	flexalloc_uthash.h	975;"	d
+HASH_SFH	flexalloc_uthash.h	697;"	d
+HASH_SIGNATURE	flexalloc_uthash.h	1087;"	d
+HASH_SORT	flexalloc_uthash.h	885;"	d
+HASH_SRT	flexalloc_uthash.h	886;"	d
+HASH_TO_BKT	flexalloc_uthash.h	431;"	d
+HASH_VALUE	flexalloc_uthash.h	149;"	d
+HH_FROM_ELMT	flexalloc_uthash.h	137;"	d
+IF_HASH_NONFATAL_OOM	flexalloc_uthash.h	115;"	d
+IF_HASH_NONFATAL_OOM	flexalloc_uthash.h	125;"	d
+IF_NO_DECLTYPE	flexalloc_utlist.h	84;"	d
+IF_NO_DECLTYPE	flexalloc_utlist.h	94;"	d
+LDECLTYPE	flexalloc_utlist.h	69;"	d
+LDECLTYPE	flexalloc_utlist.h	76;"	d
+LDECLTYPE	flexalloc_utlist.h	85;"	d
+LL_APPEND	flexalloc_utlist.h	338;"	d
+LL_APPEND2	flexalloc_utlist.h	341;"	d
+LL_APPEND2	flexalloc_utlist.h	526;"	d
+LL_APPEND2	flexalloc_utlist.h	527;"	d
+LL_APPEND_ELEM	flexalloc_utlist.h	506;"	d
+LL_APPEND_ELEM2	flexalloc_utlist.h	494;"	d
+LL_CONCAT	flexalloc_utlist.h	323;"	d
+LL_CONCAT2	flexalloc_utlist.h	326;"	d
+LL_CONCAT2	flexalloc_utlist.h	512;"	d
+LL_CONCAT2	flexalloc_utlist.h	513;"	d
+LL_COUNT	flexalloc_utlist.h	404;"	d
+LL_COUNT2	flexalloc_utlist.h	407;"	d
+LL_DELETE	flexalloc_utlist.h	385;"	d
+LL_DELETE2	flexalloc_utlist.h	388;"	d
+LL_DELETE2	flexalloc_utlist.h	556;"	d
+LL_DELETE2	flexalloc_utlist.h	557;"	d
+LL_FOREACH	flexalloc_utlist.h	413;"	d
+LL_FOREACH2	flexalloc_utlist.h	416;"	d
+LL_FOREACH_SAFE	flexalloc_utlist.h	419;"	d
+LL_FOREACH_SAFE2	flexalloc_utlist.h	422;"	d
+LL_INSERT_INORDER	flexalloc_utlist.h	354;"	d
+LL_INSERT_INORDER2	flexalloc_utlist.h	357;"	d
+LL_INSERT_INORDER2	flexalloc_utlist.h	539;"	d
+LL_INSERT_INORDER2	flexalloc_utlist.h	540;"	d
+LL_LOWER_BOUND	flexalloc_utlist.h	369;"	d
+LL_LOWER_BOUND2	flexalloc_utlist.h	372;"	d
+LL_PREPEND	flexalloc_utlist.h	314;"	d
+LL_PREPEND2	flexalloc_utlist.h	317;"	d
+LL_PREPEND_ELEM	flexalloc_utlist.h	491;"	d
+LL_PREPEND_ELEM2	flexalloc_utlist.h	468;"	d
+LL_PREPEND_ELEM2	flexalloc_utlist.h	593;"	d
+LL_PREPEND_ELEM2	flexalloc_utlist.h	594;"	d
+LL_REPLACE_ELEM	flexalloc_utlist.h	465;"	d
+LL_REPLACE_ELEM2	flexalloc_utlist.h	445;"	d
+LL_REPLACE_ELEM2	flexalloc_utlist.h	573;"	d
+LL_REPLACE_ELEM2	flexalloc_utlist.h	574;"	d
+LL_SEARCH	flexalloc_utlist.h	435;"	d
+LL_SEARCH2	flexalloc_utlist.h	438;"	d
+LL_SEARCH_SCALAR	flexalloc_utlist.h	425;"	d
+LL_SEARCH_SCALAR2	flexalloc_utlist.h	428;"	d
+LL_SORT	flexalloc_utlist.h	108;"	d
+LL_SORT2	flexalloc_utlist.h	111;"	d
+MAX_CLIENTS	flexalloc_daemon.c	9;"	d	file:
+MAX_CONN_QUEUE	flexalloc_daemon.c	10;"	d	file:
+NO_DECLTYPE	flexalloc_uthash.h	52;"	d
+NO_DECLTYPE	flexalloc_uthash.h	55;"	d
+NO_DECLTYPE	flexalloc_utlist.h	71;"	d
+NO_DECLTYPE	flexalloc_utlist.h	74;"	d
+POLL_TIMEOUT_MS	flexalloc_daemon_base.c	21;"	d	file:
+POOLS_FLIST_HTBL_RESERVED_DISCREPANCY	flexalloc_introspection.h	14;"	d
+POOLS_SUPER_FLIST_DISCREPANCY	flexalloc_introspection.h	13;"	d
+POOL_ENTRY_H2_DISCREPANCY	flexalloc_introspection.h	20;"	d
+POOL_ENTRY_HTBL_VAL_OUT_OF_BOUNDS	flexalloc_introspection.h	17;"	d
+POOL_ENTRY_INVALID_OBJ_SIZE	flexalloc_introspection.h	21;"	d
+POOL_ENTRY_NAME_NO_NULLTERM	flexalloc_introspection.h	19;"	d
+POOL_ENTRY_NAME_UNSET	flexalloc_introspection.h	18;"	d
+POOL_ENTRY_NO_FLIST_ENTRY	flexalloc_introspection.h	16;"	d
+PTR_OFFSETOF	flexalloc_introspection.c	9;"	d	file:
+ROOT_OBJ_SET_CLEAR	flexalloc_shared.h	/^  ROOT_OBJ_SET_CLEAR = 1 << 1$/;"	e	enum:__anon1
+ROOT_OBJ_SET_DEF	flexalloc_shared.h	/^  ROOT_OBJ_SET_DEF = 0,$/;"	e	enum:__anon1
+ROOT_OBJ_SET_FORCE	flexalloc_shared.h	/^  ROOT_OBJ_SET_FORCE = 1 << 0,$/;"	e	enum:__anon1
+SOCKET_PATH	flexalloc_test_client.c	9;"	d	file:
+UTHASH_H	flexalloc_uthash.h	25;"	d
+UTHASH_VERSION	flexalloc_uthash.h	27;"	d
+UTLIST_CASTASGN	flexalloc_utlist.h	101;"	d
+UTLIST_CASTASGN	flexalloc_utlist.h	92;"	d
+UTLIST_H	flexalloc_utlist.h	25;"	d
+UTLIST_NEXT	flexalloc_utlist.h	87;"	d
+UTLIST_NEXT	flexalloc_utlist.h	96;"	d
+UTLIST_NEXTASGN	flexalloc_utlist.h	88;"	d
+UTLIST_NEXTASGN	flexalloc_utlist.h	97;"	d
+UTLIST_PREVASGN	flexalloc_utlist.h	90;"	d
+UTLIST_PREVASGN	flexalloc_utlist.h	99;"	d
+UTLIST_RS	flexalloc_utlist.h	100;"	d
+UTLIST_RS	flexalloc_utlist.h	91;"	d
+UTLIST_SV	flexalloc_utlist.h	86;"	d
+UTLIST_SV	flexalloc_utlist.h	95;"	d
+UTLIST_VERSION	flexalloc_utlist.h	27;"	d
+UT_hash_bucket	flexalloc_uthash.h	/^typedef struct UT_hash_bucket$/;"	s
+UT_hash_bucket	flexalloc_uthash.h	/^} UT_hash_bucket;$/;"	t	typeref:struct:UT_hash_bucket
+UT_hash_handle	flexalloc_uthash.h	/^typedef struct UT_hash_handle$/;"	s
+UT_hash_handle	flexalloc_uthash.h	/^} UT_hash_handle;$/;"	t	typeref:struct:UT_hash_handle
+UT_hash_table	flexalloc_uthash.h	/^typedef struct UT_hash_table$/;"	s
+UT_hash_table	flexalloc_uthash.h	/^} UT_hash_table;$/;"	t	typeref:struct:UT_hash_table
+__FLEXALLOC_BITS_H_	flexalloc_bits.h	2;"	d
+__FLEXALLOC_CLI_COMMON_H_	flexalloc_cli_common.h	2;"	d
+__FLEXALLOC_FREELIST_H_	flexalloc_freelist.h	2;"	d
+__FLEXALLOC_HASH_H_	flexalloc_hash.h	9;"	d
+__FLEXALLOC_H_	flexalloc.h	11;"	d
+__FLEXALLOC_INTROSPECTION_H_	flexalloc_introspection.h	9;"	d
+__FLEXALLOC_LL_H_	flexalloc_ll.h	4;"	d
+__FLEXALLOC_MM_H_	flexalloc_mm.h	11;"	d
+__FLEXALLOC_SLABCACHE_H_	flexalloc_slabcache.h	23;"	d
+__FLEXALLOC_UTIL_H	flexalloc_util.h	10;"	d
+__FLEXALLOC_ZND_H_	flexalloc_znd.h	9;"	d
+__LIBFLEXALLOC_H_	libflexalloc.h	11;"	d
+__XNVME_ENV_H	flexalloc_xnvme_env.h	6;"	d
+__flist_bit_reserved	flexalloc_introspection.c	/^__flist_bit_reserved(freelist_t flist, uint32_t ndx)$/;"	f
+__htbl_lookup	flexalloc_hash.c	/^__htbl_lookup(struct fla_htbl *htbl, uint64_t h2, uint64_t ndx)$/;"	f
+_fs	flexalloc.h	/^  struct flexalloc *_fs;$/;"	m	struct:fla_slab_flist_cache	typeref:struct:fla_slab_flist_cache::flexalloc
+_head	flexalloc.h	/^  struct fla_slab_flist_cache_elem *_head;$/;"	m	struct:fla_slab_flist_cache	typeref:struct:fla_slab_flist_cache::fla_slab_flist_cache_elem
+arg_ex	flexalloc_cli_common.h	/^  char *arg_ex;$/;"	m	struct:cli_option
+base	flexalloc_cli_common.h	/^  struct option base;$/;"	m	struct:cli_option	typeref:struct:cli_option::option
+base_fns	flexalloc_mm.c	/^struct fla_fns base_fns =$/;"	v	typeref:struct:fla_fns
+bloom_bv	flexalloc_uthash.h	/^  uint8_t *bloom_bv;$/;"	m	struct:UT_hash_table
+bloom_nbits	flexalloc_uthash.h	/^  uint8_t bloom_nbits;$/;"	m	struct:UT_hash_table
+bloom_sig	flexalloc_uthash.h	/^  uint32_t bloom_sig; \/* used only to test bloom exists in external analysis *\/$/;"	m	struct:UT_hash_table
+buckets	flexalloc_uthash.h	/^  UT_hash_bucket *buckets;$/;"	m	struct:UT_hash_table
+buf	flexalloc_xnvme_env.c	/^  void * buf;$/;"	m	struct:fla_async_strp_cb_args_common	file:
+cache_entry_lb_slba	flexalloc_slabcache.c	/^cache_entry_lb_slba(struct fla_slab_flist_cache const * cache, const uint32_t slab_id,$/;"	f	file:
+cache_flist_size	flexalloc_slabcache.c	/^cache_flist_size(struct fla_slab_flist_cache *cache, uint32_t flist_len)$/;"	f	file:
+calc_chunk_translation	flexalloc_xnvme_env.c	/^calc_chunk_translation(uint64_t const zero_offset, uint64_t const chunk,$/;"	f	file:
+calc_strp_obj_first_nlbs	flexalloc_xnvme_env.c	/^calc_strp_obj_first_nlbs(uint64_t const xfer_snbytes,$/;"	f	file:
+calc_strp_obj_next_nbls	flexalloc_xnvme_env.c	/^calc_strp_obj_next_nbls(uint64_t sbuf_nbytes,$/;"	f	file:
+calc_strp_obj_next_sbuf_nbytes	flexalloc_xnvme_env.c	/^calc_strp_obj_next_sbuf_nbytes(uint64_t const curr_sbuf_nbytes, uint32_t const xfered_nbls,$/;"	f	file:
+calc_strp_obj_slba	flexalloc_xnvme_env.c	/^calc_strp_obj_slba(uint64_t const xfer_snbytes, struct fla_strp_params const * const sp)$/;"	f	file:
+cb_args	flexalloc_xnvme_env.c	/^  struct fla_async_cb_args cb_args;$/;"	m	struct:fla_async_strp_cb_args	typeref:struct:fla_async_strp_cb_args::fla_async_cb_args	file:
+check_pool_entries	flexalloc_introspection.c	/^check_pool_entries(struct flexalloc *fs, uint32_t *offset)$/;"	f
+check_pools_num_entries	flexalloc_introspection.c	/^check_pools_num_entries(struct flexalloc *fs)$/;"	f
+cli_option	flexalloc_cli_common.h	/^struct cli_option$/;"	s
+client_fns	flexalloc_daemon_base.c	/^struct fla_fns client_fns =$/;"	v	typeref:struct:fla_fns
+close	flexalloc_shared.h	/^  int (*close)(struct flexalloc *fs);$/;"	m	struct:fla_fns
+cmd	flexalloc_daemon_base.h	/^  uint16_t cmd;$/;"	m	struct:fla_msg_header
+cmn_args	flexalloc_xnvme_env.c	/^  struct fla_async_strp_cb_args_common * cmn_args;$/;"	m	struct:fla_async_strp_cb_args	typeref:struct:fla_async_strp_cb_args::fla_async_strp_cb_args_common	file:
+completed	flexalloc_xnvme_env.c	/^  uint32_t completed;$/;"	m	struct:fla_async_cb_args	file:
+count	flexalloc_uthash.h	/^  unsigned count;$/;"	m	struct:UT_hash_bucket
+count_set_bits	flexalloc_bits.c	/^count_set_bits(uint32_t val)$/;"	f
+data	flexalloc_daemon_base.h	/^  char *data;$/;"	m	struct:fla_msg
+description	flexalloc_cli_common.h	/^  char *description;$/;"	m	struct:cli_option
+dev	flexalloc.h	/^  struct fla_dev dev;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_dev
+dev	flexalloc.h	/^  struct xnvme_dev *dev;$/;"	m	struct:fla_dev	typeref:struct:fla_dev::xnvme_dev
+dev_lba_nbytes	flexalloc_xnvme_env.h	/^  uint32_t dev_lba_nbytes;$/;"	m	struct:fla_strp_params
+dev_uri	flexalloc.h	/^  char * dev_uri;$/;"	m	struct:fla_dev
+dev_uri	flexalloc_mm.h	/^  char * dev_uri;$/;"	m	struct:fla_mkfs_p
+dev_uri	flexalloc_shared.h	/^  const char *dev_uri;$/;"	m	struct:fla_open_opts
+ecount	flexalloc_xnvme_env.c	/^  uint32_t ecount;$/;"	m	struct:fla_async_cb_args	file:
+empty_slabs	flexalloc_mm.h	/^  uint32_t empty_slabs;$/;"	m	struct:fla_pool_entry
+entries	flexalloc.h	/^  TAILQ_ENTRY(fla_zs_entry) entries;$/;"	m	struct:fla_zs_entry
+entries	flexalloc.h	/^  struct fla_pool_entry *entries;$/;"	m	struct:fla_pools	typeref:struct:fla_pools::fla_pool_entry
+entries_nlb	flexalloc.h	/^  uint32_t entries_nlb;$/;"	m	struct:fla_geo_pool_sgmt
+entry_ndx	flexalloc_shared.h	/^  uint32_t entry_ndx;$/;"	m	struct:fla_object
+expand_mult	flexalloc_uthash.h	/^  unsigned expand_mult;$/;"	m	struct:UT_hash_bucket
+faobj_nlbs	flexalloc_xnvme_env.h	/^  uint64_t faobj_nlbs;$/;"	m	struct:fla_strp_params
+fla_acquire_slab	flexalloc_mm.c	/^fla_acquire_slab(struct flexalloc *fs, const uint32_t obj_nlb,$/;"	f
+fla_async_cb_args	flexalloc_xnvme_env.c	/^struct fla_async_cb_args$/;"	s	file:
+fla_async_strp_cb	flexalloc_xnvme_env.c	/^fla_async_strp_cb(struct xnvme_cmd_ctx * ctx, void * cb_arg)$/;"	f	file:
+fla_async_strp_cb_args	flexalloc_xnvme_env.c	/^struct fla_async_strp_cb_args$/;"	s	file:
+fla_async_strp_cb_args_common	flexalloc_xnvme_env.c	/^struct fla_async_strp_cb_args_common$/;"	s	file:
+fla_base_close	flexalloc_mm.c	/^fla_base_close(struct flexalloc *fs)$/;"	f
+fla_base_object_create	flexalloc_mm.c	/^fla_base_object_create(struct flexalloc * fs, struct fla_pool * pool_handle,$/;"	f
+fla_base_object_destroy	flexalloc_mm.c	/^fla_base_object_destroy(struct flexalloc *fs, struct fla_pool * pool_handle,$/;"	f
+fla_base_object_open	flexalloc_mm.c	/^fla_base_object_open(struct flexalloc * fs, struct fla_pool * pool_handle,$/;"	f
+fla_base_pool_close	flexalloc_mm.c	/^fla_base_pool_close(struct flexalloc *fs, struct fla_pool * handle)$/;"	f
+fla_base_pool_create	flexalloc_mm.c	/^fla_base_pool_create(struct flexalloc *fs, const char *name, int name_len, uint32_t obj_nlb,$/;"	f
+fla_base_pool_destroy	flexalloc_mm.c	/^fla_base_pool_destroy(struct flexalloc *fs, struct fla_pool * handle)$/;"	f
+fla_base_pool_get_root_object	flexalloc_mm.c	/^fla_base_pool_get_root_object(struct flexalloc const * const fs,$/;"	f
+fla_base_pool_open	flexalloc_mm.c	/^fla_base_pool_open(struct flexalloc *fs, const char *name, struct fla_pool **handle)$/;"	f
+fla_base_pool_set_root_object	flexalloc_mm.c	/^fla_base_pool_set_root_object(struct flexalloc const * const fs,$/;"	f
+fla_base_sync	flexalloc_mm.c	/^fla_base_sync(struct flexalloc *fs)$/;"	f
+fla_buf_alloc	libflexalloc.c	/^fla_buf_alloc(struct flexalloc const *fs, size_t nbytes)$/;"	f
+fla_buf_free	libflexalloc.c	/^fla_buf_free(struct flexalloc const * fs, void *buf)$/;"	f
+fla_calc_objs_in_slab	flexalloc_mm.c	/^fla_calc_objs_in_slab(struct flexalloc const * fs, uint32_t const obj_nlb)$/;"	f
+fla_close	libflexalloc.c	/^fla_close(struct flexalloc *fs)$/;"	f
+fla_close_noflush	flexalloc_mm.c	/^fla_close_noflush(struct flexalloc *fs)$/;"	f
+fla_daemon	flexalloc_daemon_base.h	/^struct fla_daemon$/;"	s
+fla_daemon_client	flexalloc_daemon_base.h	/^struct fla_daemon_client$/;"	s
+fla_daemon_client_disconnect	flexalloc_daemon_base.c	/^fla_daemon_client_disconnect(struct pollfd *client, int *active_clients)$/;"	f
+fla_daemon_close_rq	flexalloc_daemon_base.c	/^fla_daemon_close_rq(struct flexalloc *fs)$/;"	f
+fla_daemon_close_rsp	flexalloc_daemon_base.c	/^fla_daemon_close_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_create	flexalloc_daemon_base.c	/^fla_daemon_create(struct fla_daemon *d, char *socket_path, fla_daemon_msg_handler_t on_msg,$/;"	f
+fla_daemon_destroy	flexalloc_daemon_base.c	/^fla_daemon_destroy(struct fla_daemon *d)$/;"	f
+fla_daemon_fs_init_rq	flexalloc_daemon_base.c	/^fla_daemon_fs_init_rq(struct fla_daemon_client *client, int sock_fd)$/;"	f
+fla_daemon_fs_init_rsp	flexalloc_daemon_base.c	/^fla_daemon_fs_init_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_identify_rq	flexalloc_daemon_base.c	/^fla_daemon_identify_rq(struct fla_daemon_client *client, int sock_fd,$/;"	f
+fla_daemon_identify_rsp	flexalloc_daemon_base.c	/^fla_daemon_identify_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_loop	flexalloc_daemon_base.c	/^fla_daemon_loop(struct fla_daemon *d,$/;"	f
+fla_daemon_msg_handler_t	flexalloc_daemon_base.h	/^typedef int (*fla_daemon_msg_handler_t)(struct fla_daemon *daemon, int client_fd,$/;"	t
+fla_daemon_object_create_rq	flexalloc_daemon_base.c	/^fla_daemon_object_create_rq(struct flexalloc *fs, struct fla_pool *pool,$/;"	f
+fla_daemon_object_create_rsp	flexalloc_daemon_base.c	/^fla_daemon_object_create_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_object_destroy_rq	flexalloc_daemon_base.c	/^fla_daemon_object_destroy_rq(struct flexalloc *fs, struct fla_pool *pool, struct fla_object *object)$/;"	f
+fla_daemon_object_destroy_rsp	flexalloc_daemon_base.c	/^fla_daemon_object_destroy_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_object_open_rq	flexalloc_daemon_base.c	/^fla_daemon_object_open_rq(struct flexalloc *fs, struct fla_pool *pool,$/;"	f
+fla_daemon_object_open_rsp	flexalloc_daemon_base.c	/^fla_daemon_object_open_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_open	flexalloc_daemon_base.c	/^fla_daemon_open(const char *socket_path, struct fla_daemon_client *client)$/;"	f
+fla_daemon_pool_close_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_close_rq(struct flexalloc *fs, struct fla_pool *handle)$/;"	f
+fla_daemon_pool_create_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_create_rq(struct flexalloc *fs, char const *name, int name_len, uint32_t obj_nlb,$/;"	f
+fla_daemon_pool_create_rsp	flexalloc_daemon_base.c	/^fla_daemon_pool_create_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_pool_destroy_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_destroy_rq(struct flexalloc *fs, struct fla_pool *handle)$/;"	f
+fla_daemon_pool_destroy_rsp	flexalloc_daemon_base.c	/^fla_daemon_pool_destroy_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_pool_get_root_object_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_get_root_object_rq(struct flexalloc const * const fs,$/;"	f
+fla_daemon_pool_get_root_object_rsp	flexalloc_daemon_base.c	/^fla_daemon_pool_get_root_object_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_pool_open_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_open_rq(struct flexalloc *fs, char const *name, struct fla_pool **handle)$/;"	f
+fla_daemon_pool_open_rsp	flexalloc_daemon_base.c	/^fla_daemon_pool_open_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_pool_set_root_object_rq	flexalloc_daemon_base.c	/^fla_daemon_pool_set_root_object_rq(struct flexalloc const * const fs,$/;"	f
+fla_daemon_pool_set_root_object_rsp	flexalloc_daemon_base.c	/^fla_daemon_pool_set_root_object_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_sync_rq	flexalloc_daemon_base.c	/^fla_daemon_sync_rq(struct flexalloc *fs)$/;"	f
+fla_daemon_sync_rsp	flexalloc_daemon_base.c	/^fla_daemon_sync_rsp(struct fla_daemon *daemon, int client_fd,$/;"	f
+fla_daemon_usage	flexalloc_daemon.c	/^fla_daemon_usage()$/;"	f
+fla_dev	flexalloc.h	/^struct fla_dev$/;"	s
+fla_edll_add_tail	flexalloc_ll.c	/^fla_edll_add_tail(struct flexalloc *fs, uint32_t * head, uint32_t * tail,$/;"	f
+fla_edll_remove_head	flexalloc_ll.c	/^fla_edll_remove_head(struct flexalloc * fs, uint32_t * head, uint32_t * tail,$/;"	f
+fla_err_errno_fl	flexalloc_util.h	/^fla_err_errno_fl(const int condition, const char * message, const char * f,$/;"	f
+fla_err_fl	flexalloc_util.h	/^fla_err_fl(const int condition, const char * message, const char * f,$/;"	f
+fla_flist_entries_alloc	flexalloc_freelist.c	/^fla_flist_entries_alloc(freelist_t flist, unsigned int num)$/;"	f
+fla_flist_entry_alloc	flexalloc_freelist.c	/^fla_flist_entry_alloc(freelist_t flist, uint32_t elems)$/;"	f
+fla_flist_entry_free	flexalloc_freelist.c	/^fla_flist_entry_free(freelist_t flist, uint32_t ndx)$/;"	f
+fla_flist_free	flexalloc_freelist.c	/^fla_flist_free(freelist_t flist)$/;"	f
+fla_flist_init	flexalloc_freelist.c	/^fla_flist_init(freelist_t flist, uint32_t len)$/;"	f
+fla_flist_len	flexalloc_freelist.c	/^fla_flist_len(freelist_t flist)$/;"	f
+fla_flist_load	flexalloc_freelist.c	/^fla_flist_load(void *data)$/;"	f
+fla_flist_new	flexalloc_freelist.c	/^fla_flist_new(uint32_t len, freelist_t *flist)$/;"	f
+fla_flist_num_reserved	flexalloc_freelist.c	/^fla_flist_num_reserved(freelist_t flist)$/;"	f
+fla_flist_reset	flexalloc_freelist.c	/^fla_flist_reset(freelist_t flist)$/;"	f
+fla_flist_size	flexalloc_freelist.c	/^fla_flist_size(uint32_t len)$/;"	f
+fla_flush	flexalloc_mm.c	/^fla_flush(struct flexalloc *fs)$/;"	f
+fla_fns	flexalloc_shared.h	/^struct fla_fns$/;"	s
+fla_format_slab	flexalloc_mm.c	/^fla_format_slab(struct flexalloc *fs, struct fla_slab_header * slab, uint32_t obj_nlb)$/;"	f
+fla_fs_alloc	flexalloc_mm.c	/^fla_fs_alloc()$/;"	f
+fla_fs_free	flexalloc_mm.c	/^fla_fs_free(struct flexalloc *fs)$/;"	f
+fla_fs_lb_nbytes	flexalloc_mm.c	/^fla_fs_lb_nbytes(struct flexalloc const * const fs)$/;"	f
+fla_fs_nzsect	flexalloc_mm.c	/^fla_fs_nzsect(struct flexalloc const *fs)$/;"	f
+fla_fs_zns	flexalloc_mm.c	/^fla_fs_zns(struct flexalloc const *fs)$/;"	f
+fla_geo	flexalloc.h	/^struct fla_geo$/;"	s
+fla_geo_from_super	flexalloc_mm.c	/^fla_geo_from_super(struct xnvme_dev *dev, struct fla_super *super,$/;"	f
+fla_geo_init	flexalloc_mm.c	/^fla_geo_init(const struct xnvme_dev *dev, uint32_t npools, uint32_t slab_nlb,$/;"	f
+fla_geo_nblocks	flexalloc_mm.c	/^fla_geo_nblocks(const struct fla_geo *geo)$/;"	f
+fla_geo_nbytes	flexalloc_mm.c	/^fla_geo_nbytes(struct fla_geo *geo)$/;"	f
+fla_geo_pool_sgmt	flexalloc.h	/^struct fla_geo_pool_sgmt$/;"	s
+fla_geo_pool_sgmt_calc	flexalloc_mm.c	/^fla_geo_pool_sgmt_calc(uint32_t npools, uint32_t lb_nbytes,$/;"	f
+fla_geo_pool_sgmt_lb_off	flexalloc_mm.c	/^fla_geo_pool_sgmt_lb_off(struct fla_geo const *geo)$/;"	f
+fla_geo_pool_sgmt_nblocks	flexalloc_mm.c	/^fla_geo_pool_sgmt_nblocks(const struct fla_geo_pool_sgmt *geo)$/;"	f	file:
+fla_geo_pool_sgmt_off	flexalloc_mm.c	/^fla_geo_pool_sgmt_off(struct fla_geo *geo)$/;"	f
+fla_geo_slab_lb_off	flexalloc_mm.c	/^fla_geo_slab_lb_off(struct flexalloc const *fs, uint32_t slab_id)$/;"	f
+fla_geo_slab_sgmt	flexalloc.h	/^struct fla_geo_slab_sgmt$/;"	s
+fla_geo_slab_sgmt_calc	flexalloc_mm.c	/^fla_geo_slab_sgmt_calc(uint32_t nslabs, uint32_t lb_nbytes,$/;"	f
+fla_geo_slab_sgmt_lb_off	flexalloc_mm.c	/^fla_geo_slab_sgmt_lb_off(struct fla_geo const *geo)$/;"	f
+fla_geo_slab_sgmt_nblocks	flexalloc_mm.c	/^fla_geo_slab_sgmt_nblocks(const struct fla_geo_slab_sgmt *geo)$/;"	f	file:
+fla_geo_slab_sgmt_off	flexalloc_mm.c	/^fla_geo_slab_sgmt_off(struct fla_geo *geo)$/;"	f
+fla_geo_slabs_lb_off	flexalloc_mm.c	/^fla_geo_slabs_lb_off(struct fla_geo const *geo)$/;"	f
+fla_geo_zoned	flexalloc_mm.c	/^fla_geo_zoned(const struct fla_geo *geo)$/;"	f	file:
+fla_get_client	flexalloc_daemon_base.c	/^struct fla_daemon_client *fla_get_client(struct flexalloc const * const fs)$/;"	f
+fla_hash_djb2	flexalloc_hash.c	/^fla_hash_djb2(const char *key)$/;"	f
+fla_hash_sdbm	flexalloc_hash.c	/^fla_hash_sdbm(char const *key)$/;"	f
+fla_hdll_prepend	flexalloc_ll.c	/^fla_hdll_prepend(struct flexalloc * fs, struct fla_slab_header * slab, uint32_t *head)$/;"	f
+fla_hdll_remove	flexalloc_ll.c	/^fla_hdll_remove(struct flexalloc * fs, struct fla_slab_header * slab, uint32_t * head)$/;"	f
+fla_hdll_remove_all	flexalloc_ll.c	/^fla_hdll_remove_all(struct flexalloc *fs, uint32_t *head,$/;"	f
+fla_htbl	flexalloc_hash.h	/^struct fla_htbl$/;"	s
+fla_htbl_entries_init	flexalloc_hash.c	/^fla_htbl_entries_init(struct fla_htbl_entry *tbl, uint32_t tbl_size)$/;"	f
+fla_htbl_entry	flexalloc_hash.h	/^struct fla_htbl_entry$/;"	s
+fla_init	flexalloc_mm.c	/^fla_init(struct fla_geo *geo, struct xnvme_dev *dev, struct xnvme_dev *md_dev, void *fla_md_buf,$/;"	f
+fla_inspect_help	flexalloc_inspect.c	/^fla_inspect_help()$/;"	f
+fla_mad_compression	flexalloc_hash.c	/^fla_mad_compression(uint64_t key, uint64_t a, uint64_t b, uint64_t n)$/;"	f
+fla_max_open_files	flexalloc_daemon_base.c	/^fla_max_open_files()$/;"	f
+fla_min	flexalloc_util.h	89;"	d
+fla_mkfs	flexalloc_mm.c	/^fla_mkfs(struct fla_mkfs_p *p)$/;"	f
+fla_mkfs_geo_calc	flexalloc_mm.c	/^fla_mkfs_geo_calc(const struct xnvme_dev *dev, const struct xnvme_dev *md_dev,$/;"	f
+fla_mkfs_help	flexalloc_mkfs.c	/^fla_mkfs_help()$/;"	f
+fla_mkfs_p	flexalloc_mm.h	/^struct fla_mkfs_p$/;"	s
+fla_mkfs_parse_args	flexalloc_mkfs.c	/^fla_mkfs_parse_args(int argc, char ** argv, struct fla_mkfs_p * p)$/;"	f
+fla_mkfs_pool_sgmt_init	flexalloc_mm.c	/^fla_mkfs_pool_sgmt_init(struct flexalloc *fs, struct fla_geo *geo)$/;"	f
+fla_mkfs_slab_sgmt_init	flexalloc_mm.c	/^fla_mkfs_slab_sgmt_init(struct flexalloc *fs, struct fla_geo *geo)$/;"	f
+fla_mkfs_super_init	flexalloc_mm.c	/^fla_mkfs_super_init(struct flexalloc *fs, struct fla_geo *geo)$/;"	f
+fla_msg	flexalloc_daemon_base.h	/^struct fla_msg$/;"	s
+fla_msg_header	flexalloc_daemon_base.h	/^struct fla_msg_header$/;"	s
+fla_nslabs_max	flexalloc_mm.c	/^fla_nslabs_max(uint64_t blocks, uint32_t slab_nlb, uint32_t lb_nbytes)$/;"	f
+fla_nslabs_max_mddev	flexalloc_mm.c	/^fla_nslabs_max_mddev(uint64_t blocks, uint32_t slab_nlb, uint32_t lb_nbytes,$/;"	f	file:
+fla_obj_list_item	flexalloc_mm.h	/^struct fla_obj_list_item$/;"	s
+fla_obj_meta	flexalloc_mm.h	/^struct fla_obj_meta$/;"	s
+fla_object	flexalloc_shared.h	/^struct fla_object$/;"	s
+fla_object_create	libflexalloc.c	/^fla_object_create(struct flexalloc * fs, struct fla_pool * pool,$/;"	f
+fla_object_destroy	libflexalloc.c	/^fla_object_destroy(struct flexalloc *fs, struct fla_pool * pool,$/;"	f
+fla_object_elba	flexalloc_mm.c	/^fla_object_elba(struct flexalloc const * fs, struct fla_object const * obj,$/;"	f
+fla_object_eoffset	flexalloc_mm.c	/^fla_object_eoffset(struct flexalloc const * fs, struct fla_object const * obj,$/;"	f
+fla_object_open	libflexalloc.c	/^fla_object_open(struct flexalloc * fs, struct fla_pool * pool,$/;"	f
+fla_object_read	flexalloc_mm.c	/^fla_object_read(const struct flexalloc * fs, struct fla_pool const * pool_handle,$/;"	f
+fla_object_seal	flexalloc_znd.c	/^fla_object_seal(struct flexalloc *fs, struct fla_pool const *pool_handle, struct fla_object *obj)$/;"	f
+fla_object_slba	flexalloc_mm.c	/^fla_object_slba(struct flexalloc const * fs, struct fla_object const * obj,$/;"	f
+fla_object_soffset	flexalloc_mm.c	/^fla_object_soffset(struct flexalloc const * fs, struct fla_object const * obj,$/;"	f
+fla_object_unaligned_write	flexalloc_mm.c	/^fla_object_unaligned_write(struct flexalloc * fs, struct fla_pool const * pool_handle,$/;"	f
+fla_object_write	flexalloc_mm.c	/^fla_object_write(struct flexalloc * fs, struct fla_pool const * pool_handle,$/;"	f
+fla_open	flexalloc_mm.c	/^fla_open(struct fla_open_opts *opts, struct flexalloc **fs)$/;"	f
+fla_open_opts	flexalloc_shared.h	/^struct fla_open_opts$/;"	s
+fla_pool	flexalloc_shared.h	/^struct fla_pool$/;"	s
+fla_pool_best_slab_list	flexalloc_mm.c	/^fla_pool_best_slab_list(const struct fla_slab_header* slab,$/;"	f
+fla_pool_close	libflexalloc.c	/^fla_pool_close(struct flexalloc *fs, struct fla_pool * pool)$/;"	f
+fla_pool_create	libflexalloc.c	/^fla_pool_create(struct flexalloc *fs, const char *name, int name_len, uint32_t obj_nlb,$/;"	f
+fla_pool_destroy	libflexalloc.c	/^fla_pool_destroy(struct flexalloc *fs, struct fla_pool * pool)$/;"	f
+fla_pool_entry	flexalloc_mm.h	/^struct fla_pool_entry$/;"	s
+fla_pool_entry_reset	flexalloc_mm.c	/^fla_pool_entry_reset(struct fla_pool_entry *pool_entry, const char *name, int name_len,$/;"	f
+fla_pool_get_root_object	libflexalloc.c	/^fla_pool_get_root_object(struct flexalloc const * const fs,$/;"	f
+fla_pool_htbl_header	flexalloc_mm.h	/^struct fla_pool_htbl_header$/;"	s
+fla_pool_lookup_root_object	flexalloc_mm.c	/^fla_pool_lookup_root_object(struct flexalloc const * const fs,$/;"	f
+fla_pool_next_available_slab	flexalloc_mm.c	/^fla_pool_next_available_slab(struct flexalloc * fs, struct fla_pool_entry * pool_entry,$/;"	f
+fla_pool_obj_nlb	flexalloc_mm.c	/^fla_pool_obj_nlb(struct flexalloc const * const fs, struct fla_pool const *pool_handle)$/;"	f
+fla_pool_open	libflexalloc.c	/^fla_pool_open(struct flexalloc *fs, const char *name, struct fla_pool **pool)$/;"	f
+fla_pool_release_all_slabs	flexalloc_mm.c	/^fla_pool_release_all_slabs(struct flexalloc *fs, struct fla_pool_entry * pool_entry)$/;"	f
+fla_pool_set_root_object	libflexalloc.c	/^fla_pool_set_root_object(struct flexalloc const * const fs,$/;"	f
+fla_pool_set_strp	flexalloc_mm.c	/^fla_pool_set_strp(struct flexalloc *fs, struct fla_pool *ph, uint32_t strp_nobjs,$/;"	f
+fla_pools	flexalloc.h	/^struct fla_pools$/;"	s
+fla_print_fs	flexalloc_mm.c	/^fla_print_fs(struct flexalloc *fs)$/;"	f
+fla_print_geo	flexalloc_mm.c	/^fla_print_geo(struct flexalloc *fs)$/;"	f
+fla_print_pool_entries	flexalloc_mm.c	/^fla_print_pool_entries(struct flexalloc *fs)$/;"	f
+fla_release_slab	flexalloc_mm.c	/^fla_release_slab(struct flexalloc *fs, struct fla_slab_header * r_slab)$/;"	f
+fla_root_object_set_action	flexalloc_shared.h	/^} fla_root_object_set_action;$/;"	t	typeref:enum:__anon1
+fla_send_recv	flexalloc_daemon_base.c	/^fla_send_recv(struct fla_daemon_client *client)$/;"	f
+fla_slab_cache_elem_drop	flexalloc_slabcache.c	/^fla_slab_cache_elem_drop(struct fla_slab_flist_cache *cache, uint32_t slab_id)$/;"	f
+fla_slab_cache_elem_flush	flexalloc_slabcache.c	/^fla_slab_cache_elem_flush(struct fla_slab_flist_cache *cache, uint32_t slab_id)$/;"	f
+fla_slab_cache_elem_init	flexalloc_slabcache.c	/^fla_slab_cache_elem_init(struct fla_slab_flist_cache *cache, uint32_t slab_id,$/;"	f
+fla_slab_cache_elem_load	flexalloc_slabcache.c	/^fla_slab_cache_elem_load(struct fla_slab_flist_cache *cache, uint32_t slab_id,$/;"	f
+fla_slab_cache_flist_nlb	flexalloc_slabcache.c	/^fla_slab_cache_flist_nlb(struct flexalloc const * fs, uint32_t flist_len)$/;"	f
+fla_slab_cache_flush	flexalloc_slabcache.c	/^fla_slab_cache_flush(struct fla_slab_flist_cache *cache)$/;"	f
+fla_slab_cache_free	flexalloc_slabcache.c	/^fla_slab_cache_free(struct fla_slab_flist_cache *cache)$/;"	f
+fla_slab_cache_init	flexalloc_slabcache.c	/^fla_slab_cache_init(struct flexalloc *fs, struct fla_slab_flist_cache *cache)$/;"	f
+fla_slab_cache_obj_alloc	flexalloc_slabcache.c	/^fla_slab_cache_obj_alloc(struct fla_slab_flist_cache *cache, uint32_t slab_id,$/;"	f
+fla_slab_cache_obj_free	flexalloc_slabcache.c	/^fla_slab_cache_obj_free(struct fla_slab_flist_cache *cache,$/;"	f
+fla_slab_flist_cache	flexalloc.h	/^struct fla_slab_flist_cache$/;"	s
+fla_slab_flist_cache_elem	flexalloc_slabcache.h	/^struct fla_slab_flist_cache_elem$/;"	s
+fla_slab_flist_elem_state	flexalloc_slabcache.h	/^enum fla_slab_flist_elem_state$/;"	g
+fla_slab_header	flexalloc_mm.h	/^struct fla_slab_header$/;"	s
+fla_slab_header_ptr	flexalloc_mm.c	/^fla_slab_header_ptr(const uint32_t s_id, const struct flexalloc * fs)$/;"	f
+fla_slab_id	flexalloc_mm.c	/^fla_slab_id(const struct fla_slab_header * slab, const struct flexalloc * fs,$/;"	f
+fla_slab_next_available_obj	flexalloc_mm.c	/^fla_slab_next_available_obj(struct flexalloc * fs, struct fla_slab_header * slab,$/;"	f
+fla_slab_range_check_id	flexalloc_mm.c	/^fla_slab_range_check_id(const struct flexalloc * fs, const uint32_t s_id)$/;"	f
+fla_slab_sgmt_calc	flexalloc_mm.c	/^fla_slab_sgmt_calc(uint32_t nslabs, uint32_t lb_nbytes)$/;"	f
+fla_slabs	flexalloc.h	/^struct fla_slabs$/;"	s
+fla_sock_recv_msg	flexalloc_daemon_base.c	/^fla_sock_recv_msg(int sock_fd, struct fla_msg const * const msg)$/;"	f
+fla_sock_send_bytes	flexalloc_daemon_base.c	/^fla_sock_send_bytes(int sock_fd, char *buf, size_t n)$/;"	f
+fla_sock_send_msg	flexalloc_daemon_base.c	/^fla_sock_send_msg(int sock_fd, struct fla_msg const * const msg)$/;"	f
+fla_sock_sockaddr_init	flexalloc_daemon_base.c	/^fla_sock_sockaddr_init(struct sockaddr_un *socket, const char * socket_path)$/;"	f
+fla_strp_params	flexalloc_xnvme_env.h	/^struct fla_strp_params$/;"	s
+fla_super	flexalloc_mm.h	/^struct fla_super$/;"	s
+fla_super_read	flexalloc_mm.c	/^fla_super_read(struct xnvme_dev *dev, size_t lb_nbytes, struct fla_super **super)$/;"	f
+fla_sync	libflexalloc.c	/^fla_sync(struct flexalloc *fs)$/;"	f
+fla_sys_identity	flexalloc_daemon_base.h	/^struct fla_sys_identity$/;"	s
+fla_xne_alloc_buf	flexalloc_xnvme_env.c	/^fla_xne_alloc_buf(const struct xnvme_dev *dev, size_t nbytes)$/;"	f
+fla_xne_async_strp_seq_x	flexalloc_xnvme_env.c	/^fla_xne_async_strp_seq_x(struct xnvme_dev *dev, void const *buf, struct fla_strp_params *sp)$/;"	f
+fla_xne_calc_mdts_naddrs	flexalloc_xnvme_env.c	/^fla_xne_calc_mdts_naddrs(const struct xnvme_dev * dev)$/;"	f
+fla_xne_dev_close	flexalloc_xnvme_env.c	/^fla_xne_dev_close(struct xnvme_dev *dev)$/;"	f
+fla_xne_dev_get_znd_mar	flexalloc_xnvme_env.c	/^fla_xne_dev_get_znd_mar(struct xnvme_dev *dev)$/;"	f
+fla_xne_dev_get_znd_mor	flexalloc_xnvme_env.c	/^fla_xne_dev_get_znd_mor(struct xnvme_dev *dev)$/;"	f
+fla_xne_dev_lba_nbytes	flexalloc_xnvme_env.c	/^fla_xne_dev_lba_nbytes(const struct xnvme_dev * dev)$/;"	f
+fla_xne_dev_mkfs_prepare	flexalloc_xnvme_env.c	/^fla_xne_dev_mkfs_prepare(struct xnvme_dev *dev, char *md_dev_uri, struct xnvme_dev **md_dev)$/;"	f
+fla_xne_dev_open	flexalloc_xnvme_env.c	/^fla_xne_dev_open(const char *dev_uri, struct xnvme_opts *opts, struct xnvme_dev **dev)$/;"	f
+fla_xne_dev_sanity_check	flexalloc_xnvme_env.c	/^fla_xne_dev_sanity_check(struct xnvme_dev const * dev, struct xnvme_dev const *md_dev)$/;"	f
+fla_xne_dev_tbytes	flexalloc_xnvme_env.c	/^fla_xne_dev_tbytes(const struct xnvme_dev * dev)$/;"	f
+fla_xne_dev_type	flexalloc_xnvme_env.c	/^fla_xne_dev_type(const struct xnvme_dev *dev)$/;"	f
+fla_xne_dev_znd_sect	flexalloc_xnvme_env.c	/^fla_xne_dev_znd_sect(const struct xnvme_dev *dev)$/;"	f
+fla_xne_dev_znd_send_mgmt	flexalloc_xnvme_env.c	/^fla_xne_dev_znd_send_mgmt(struct xnvme_dev *dev, uint64_t slba,$/;"	f
+fla_xne_dev_znd_zones	flexalloc_xnvme_env.c	/^fla_xne_dev_znd_zones(const struct xnvme_dev *dev)$/;"	f
+fla_xne_free_buf	flexalloc_xnvme_env.c	/^fla_xne_free_buf(const struct xnvme_dev * dev, void * buf)$/;"	f
+fla_xne_lba_range_from_offset_nbytes	flexalloc_xnvme_env.c	/^fla_xne_lba_range_from_offset_nbytes(struct xnvme_dev *dev, uint64_t offset, uint64_t nbytes)$/;"	f
+fla_xne_lba_range_from_slba_naddrs	flexalloc_xnvme_env.c	/^fla_xne_lba_range_from_slba_naddrs(struct xnvme_dev *dev, uint64_t slba, uint64_t naddrs)$/;"	f
+fla_xne_realloc_buf	flexalloc_xnvme_env.c	/^fla_xne_realloc_buf(const struct xnvme_dev *dev, void *buf,$/;"	f
+fla_xne_sync_seq_r	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_r(const struct xnvme_lba_range * lba_range,$/;"	f
+fla_xne_sync_seq_r_naddrs	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_r_naddrs(struct xnvme_dev * dev, const uint64_t slba, const uint64_t naddrs,$/;"	f
+fla_xne_sync_seq_r_nbytes	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_r_nbytes(struct xnvme_dev * dev, const uint64_t offset, uint64_t nbytes,$/;"	f
+fla_xne_sync_seq_w	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_w(const struct xnvme_lba_range * lba_range,$/;"	f
+fla_xne_sync_seq_w_naddrs	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_w_naddrs(struct xnvme_dev * dev, const uint64_t slba, const uint64_t naddrs,$/;"	f
+fla_xne_sync_seq_w_nbytes	flexalloc_xnvme_env.c	/^fla_xne_sync_seq_w_nbytes(struct xnvme_dev * dev, const uint64_t offset, uint64_t nbytes,$/;"	f
+fla_xne_write_zeroes	flexalloc_xnvme_env.c	/^fla_xne_write_zeroes(const struct xnvme_lba_range *lba_range,$/;"	f
+fla_znd_manage_zones	flexalloc_znd.c	/^fla_znd_manage_zones(struct flexalloc *fs, uint32_t zone)$/;"	f
+fla_znd_manage_zones_cleanup	flexalloc_znd.c	/^fla_znd_manage_zones_cleanup(struct flexalloc *fs)$/;"	f
+fla_znd_zone_full	flexalloc_znd.c	/^fla_znd_zone_full(struct flexalloc *fs, uint32_t zone)$/;"	f
+fla_zs_entry	flexalloc.h	/^struct fla_zs_entry$/;"	s
+flashalloc_cnt	flexalloc_shared.h	/^  uint32_t flashalloc_cnt;$/;"	m	struct:fla_object
+flexalloc	flexalloc.h	/^struct flexalloc$/;"	s
+flexalloc	flexalloc_daemon_base.h	/^  struct flexalloc *flexalloc;$/;"	m	struct:fla_daemon	typeref:struct:fla_daemon::flexalloc
+flexalloc	flexalloc_daemon_base.h	/^  struct flexalloc *flexalloc;$/;"	m	struct:fla_daemon_client	typeref:struct:fla_daemon_client::flexalloc
+fmt_arg	flexalloc_cli_common.c	/^fmt_arg(char *buf, size_t buflen, struct cli_option *o)$/;"	f	file:
+fmt_version	flexalloc_mm.h	/^  uint8_t fmt_version;$/;"	m	struct:fla_super
+fns	flexalloc.h	/^  struct fla_fns fns;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_fns
+freelist	flexalloc.h	/^  freelist_t freelist;$/;"	m	struct:fla_pools
+freelist	flexalloc_slabcache.h	/^  freelist_t freelist;$/;"	m	struct:fla_slab_flist_cache_elem
+freelist_nlb	flexalloc.h	/^  uint32_t freelist_nlb;$/;"	m	struct:fla_geo_pool_sgmt
+freelist_t	flexalloc_freelist.h	/^typedef uint32_t * freelist_t;$/;"	t
+fs_buffer	flexalloc.h	/^  void *fs_buffer;$/;"	m	struct:flexalloc
+fslab_head	flexalloc.h	/^  uint32_t *fslab_head;$/;"	m	struct:fla_slabs
+fslab_num	flexalloc.h	/^  uint32_t *fslab_num;$/;"	m	struct:fla_slabs
+fslab_tail	flexalloc.h	/^  uint32_t *fslab_tail;$/;"	m	struct:fla_slabs
+full_slabs	flexalloc_mm.h	/^  uint32_t full_slabs;$/;"	m	struct:fla_pool_entry
+geo	flexalloc.h	/^  struct fla_geo geo;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_geo
+get16bits	flexalloc_uthash.h	687;"	d
+get16bits	flexalloc_uthash.h	690;"	d
+get16bits	flexalloc_uthash.h	694;"	d
+h2	flexalloc_hash.h	/^  uint64_t h2;$/;"	m	struct:fla_htbl_entry
+h2	flexalloc_shared.h	/^  uint64_t h2;$/;"	m	struct:fla_pool
+hashv	flexalloc_uthash.h	/^  unsigned hashv;                   \/* result of hash-fcn(key)        *\/$/;"	m	struct:UT_hash_handle
+hdr	flexalloc_daemon_base.h	/^  struct fla_msg_header *hdr;$/;"	m	struct:fla_msg	typeref:struct:fla_msg::fla_msg_header
+headers	flexalloc.h	/^  struct fla_slab_header *headers;$/;"	m	struct:fla_slabs	typeref:struct:fla_slabs::fla_slab_header
+hh_head	flexalloc_uthash.h	/^  struct UT_hash_handle *hh_head;$/;"	m	struct:UT_hash_bucket	typeref:struct:UT_hash_bucket::UT_hash_handle
+hh_next	flexalloc_uthash.h	/^  struct UT_hash_handle *hh_next;   \/* next hh in bucket order        *\/$/;"	m	struct:UT_hash_handle	typeref:struct:UT_hash_handle::UT_hash_handle
+hh_prev	flexalloc_uthash.h	/^  struct UT_hash_handle *hh_prev;   \/* previous hh in bucket order    *\/$/;"	m	struct:UT_hash_handle	typeref:struct:UT_hash_handle::UT_hash_handle
+hho	flexalloc_uthash.h	/^  ptrdiff_t hho; \/* hash handle offset (byte pos of hash handle in element *\/$/;"	m	struct:UT_hash_table
+htbl	flexalloc.h	/^  struct fla_htbl htbl;$/;"	m	struct:fla_pools	typeref:struct:fla_pools::fla_htbl
+htbl_free	flexalloc_hash.c	/^htbl_free(struct fla_htbl *htbl)$/;"	f
+htbl_hdr_buffer	flexalloc.h	/^  struct fla_pool_htbl_header *htbl_hdr_buffer;$/;"	m	struct:fla_pools	typeref:struct:fla_pools::fla_pool_htbl_header
+htbl_init	flexalloc_hash.c	/^htbl_init(struct fla_htbl *htbl, unsigned int tbl_size)$/;"	f
+htbl_insert	flexalloc_hash.c	/^htbl_insert(struct fla_htbl *htbl, char const *key, uint32_t val)$/;"	f
+htbl_lookup	flexalloc_hash.c	/^htbl_lookup(struct fla_htbl *htbl, const char *key)$/;"	f
+htbl_new	flexalloc_hash.c	/^htbl_new(unsigned int tbl_size, struct fla_htbl **htbl)$/;"	f
+htbl_nlb	flexalloc.h	/^  uint32_t htbl_nlb;$/;"	m	struct:fla_geo_pool_sgmt
+htbl_remove	flexalloc_hash.c	/^htbl_remove(struct fla_htbl *htbl, char *key)$/;"	f
+htbl_tbl_size	flexalloc.h	/^  uint32_t htbl_tbl_size;$/;"	m	struct:fla_geo_pool_sgmt
+ideal_chain_maxlen	flexalloc_uthash.h	/^  unsigned ideal_chain_maxlen;$/;"	m	struct:UT_hash_table
+identity	flexalloc_daemon_base.h	/^  struct fla_sys_identity identity;$/;"	m	struct:fla_daemon	typeref:struct:fla_daemon::fla_sys_identity
+ineff_expands	flexalloc_uthash.h	/^  unsigned ineff_expands, noexpand;$/;"	m	struct:UT_hash_table
+keep_running	flexalloc_daemon.c	/^volatile sig_atomic_t keep_running = 1;$/;"	v
+key	flexalloc_uthash.h	/^  const void *key;                  \/* ptr to enclosing struct's key  *\/$/;"	m	struct:UT_hash_handle
+keylen	flexalloc_uthash.h	/^  unsigned keylen;                  \/* enclosing struct's key len     *\/$/;"	m	struct:UT_hash_handle
+lb_nbytes	flexalloc.h	/^  uint32_t lb_nbytes;$/;"	m	struct:fla_dev
+lb_nbytes	flexalloc.h	/^  uint32_t lb_nbytes;$/;"	m	struct:fla_geo
+len	flexalloc_daemon_base.h	/^  uint32_t len;$/;"	m	struct:fla_msg_header
+len	flexalloc_hash.h	/^  unsigned int len;$/;"	m	struct:fla_htbl
+len	flexalloc_mm.h	/^  uint32_t len;$/;"	m	struct:fla_pool_htbl_header
+listen_fd	flexalloc_daemon_base.h	/^  int listen_fd;$/;"	m	struct:fla_daemon
+log2_num_buckets	flexalloc_uthash.h	/^  unsigned num_buckets, log2_num_buckets;$/;"	m	struct:UT_hash_table
+magic	flexalloc_mm.h	/^  uint64_t magic;$/;"	m	struct:fla_super
+main	flexalloc_daemon.c	/^main(int argc, char **argv)$/;"	f
+main	flexalloc_inspect.c	/^main(int argc, char **argv)$/;"	f
+main	flexalloc_mkfs.c	/^main(int argc, char ** argv)$/;"	f
+main	flexalloc_test_client.c	/^main(int argc, char **argv)$/;"	f
+max_clients	flexalloc_daemon_base.h	/^  int max_clients;$/;"	m	struct:fla_daemon
+md_dev	flexalloc.h	/^  struct xnvme_dev *md_dev;$/;"	m	struct:fla_dev	typeref:struct:fla_dev::xnvme_dev
+md_dev_uri	flexalloc_mm.h	/^  char * md_dev_uri;$/;"	m	struct:fla_mkfs_p
+md_dev_uri	flexalloc_shared.h	/^  const char *md_dev_uri;$/;"	m	struct:fla_open_opts
+md_nlb	flexalloc.h	/^  uint32_t md_nlb;$/;"	m	struct:fla_geo
+md_nlb	flexalloc_mm.h	/^  uint32_t md_nlb;$/;"	m	struct:fla_super
+md_ptr_check_pool_entries_size	flexalloc_introspection.c	/^md_ptr_check_pool_entries_size(struct flexalloc *fs)$/;"	f
+md_ptr_check_pool_freelist_size	flexalloc_introspection.c	/^md_ptr_check_pool_freelist_size(struct flexalloc *fs)$/;"	f
+md_ptr_check_pool_htbl_size	flexalloc_introspection.c	/^md_ptr_check_pool_htbl_size(struct flexalloc *fs)$/;"	f
+md_ptr_check_super_size	flexalloc_introspection.c	/^md_ptr_check_super_size(struct flexalloc *fs)$/;"	f
+mdr_ptr_check_super_offset	flexalloc_introspection.c	/^mdr_ptr_check_super_offset(struct flexalloc *fs)$/;"	f
+msg_handler	flexalloc_daemon.c	/^msg_handler(struct fla_daemon *d, int client_fd, struct fla_msg const * const recv,$/;"	f
+name	flexalloc_mm.h	/^  char name[FLA_NAME_SIZE];$/;"	m	struct:fla_obj_meta
+name	flexalloc_mm.h	/^  char name[FLA_NAME_SIZE_POOL]; \/\/ maximize use of 512B block while having entries aligned by 8B$/;"	m	struct:fla_pool_entry
+ndx	flexalloc_shared.h	/^  uint32_t ndx;$/;"	m	struct:fla_pool
+next	flexalloc_mm.h	/^  struct fla_obj_freelist_entry *prev, *next;$/;"	m	struct:fla_obj_list_item	typeref:struct:fla_obj_list_item::
+next	flexalloc_mm.h	/^  uint32_t next;$/;"	m	struct:fla_slab_header
+next	flexalloc_uthash.h	/^  void *next;                       \/* next element in app order      *\/$/;"	m	struct:UT_hash_handle
+nlb	flexalloc.h	/^  uint64_t nlb;$/;"	m	struct:fla_geo
+nlbs	flexalloc_xnvme_env.c	/^  uint16_t nlbs;$/;"	m	struct:fla_async_strp_cb_args	file:
+noexpand	flexalloc_uthash.h	/^  unsigned ineff_expands, noexpand;$/;"	m	struct:UT_hash_table
+nonideal_items	flexalloc_uthash.h	/^  unsigned nonideal_items;$/;"	m	struct:UT_hash_table
+npools	flexalloc.h	/^  uint32_t npools;$/;"	m	struct:fla_geo
+npools	flexalloc_mm.h	/^  uint32_t npools;$/;"	m	struct:fla_mkfs_p
+npools	flexalloc_mm.h	/^  uint32_t npools;$/;"	m	struct:fla_super
+nsid	flexalloc_xnvme_env.c	/^  uint32_t nsid;$/;"	m	struct:fla_async_strp_cb_args_common	file:
+nslabs	flexalloc.h	/^  uint32_t nslabs;$/;"	m	struct:fla_geo
+nslabs	flexalloc_mm.h	/^  uint32_t nslabs;$/;"	m	struct:fla_super
+ntz	flexalloc_bits.c	/^ntz(uint32_t x)$/;"	f
+num_buckets	flexalloc_uthash.h	/^  unsigned num_buckets, log2_num_buckets;$/;"	m	struct:UT_hash_table
+num_items	flexalloc_uthash.h	/^  unsigned num_items;$/;"	m	struct:UT_hash_table
+nzones	flexalloc.h	/^  uint32_t nzones;$/;"	m	struct:fla_geo
+nzsect	flexalloc.h	/^  uint64_t nzsect;$/;"	m	struct:fla_geo
+obj_nlb	flexalloc_mm.h	/^  uint32_t obj_nlb;$/;"	m	struct:fla_pool_entry
+object_create	flexalloc_shared.h	/^  int (*object_create)(struct flexalloc *fs, struct fla_pool *pool, struct fla_object *object);$/;"	m	struct:fla_fns
+object_destroy	flexalloc_shared.h	/^  int (*object_destroy)(struct flexalloc *fs, struct fla_pool *pool, struct fla_object *object);$/;"	m	struct:fla_fns
+object_open	flexalloc_shared.h	/^  int (*object_open)(struct flexalloc *fs, struct fla_pool *pool, struct fla_object *object);$/;"	m	struct:fla_fns
+on_msg	flexalloc_daemon_base.h	/^  fla_daemon_msg_handler_t on_msg;$/;"	m	struct:fla_daemon
+options	flexalloc_daemon.c	/^static struct cli_option options[] =$/;"	v	typeref:struct:cli_option	file:
+options	flexalloc_inspect.c	/^static struct cli_option options[] =$/;"	v	typeref:struct:cli_option	file:
+options	flexalloc_mkfs.c	/^static struct cli_option options[] =$/;"	v	typeref:struct:cli_option	file:
+opts	flexalloc_shared.h	/^  struct xnvme_opts *opts;$/;"	m	struct:fla_open_opts	typeref:struct:fla_open_opts::xnvme_opts
+partial_slabs	flexalloc_mm.h	/^  uint32_t partial_slabs;$/;"	m	struct:fla_pool_entry
+pool	flexalloc_mm.h	/^  uint64_t pool;$/;"	m	struct:fla_slab_header
+pool_close	flexalloc_shared.h	/^  void (*pool_close)(struct flexalloc *fs, struct fla_pool *pool);$/;"	m	struct:fla_fns
+pool_create	flexalloc_shared.h	/^  int (*pool_create)(struct flexalloc *fs, const char *name, int name_len, uint32_t obj_nlb,$/;"	m	struct:fla_fns
+pool_destroy	flexalloc_shared.h	/^  int (*pool_destroy)(struct flexalloc *fs, struct fla_pool *pool);$/;"	m	struct:fla_fns
+pool_get_root_object	flexalloc_shared.h	/^  int (*pool_get_root_object)(struct flexalloc const * const fs, struct fla_pool const * pool,$/;"	m	struct:fla_fns
+pool_htbl_num_reserved	flexalloc_introspection.c	/^pool_htbl_num_reserved(struct flexalloc *fs)$/;"	f
+pool_open	flexalloc_shared.h	/^  int (*pool_open)(struct flexalloc *fs, const char *name, struct fla_pool **pool);$/;"	m	struct:fla_fns
+pool_set_root_object	flexalloc_shared.h	/^  int (*pool_set_root_object)(struct flexalloc const * const fs, struct fla_pool const * pool,$/;"	m	struct:fla_fns
+pool_sgmt	flexalloc.h	/^  struct fla_geo_pool_sgmt pool_sgmt;$/;"	m	struct:fla_geo	typeref:struct:fla_geo::fla_geo_pool_sgmt
+pools	flexalloc.h	/^  struct fla_pools pools;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_pools
+prev	flexalloc_mm.h	/^  struct fla_obj_freelist_entry *prev, *next;$/;"	m	struct:fla_obj_list_item	typeref:struct:fla_obj_list_item::fla_obj_freelist_entry
+prev	flexalloc_mm.h	/^  uint32_t prev;$/;"	m	struct:fla_slab_header
+prev	flexalloc_uthash.h	/^  void *prev;                       \/* prev element in app order      *\/$/;"	m	struct:UT_hash_handle
+print_htbl_entry	flexalloc_introspection.c	/^print_htbl_entry(struct fla_htbl_entry *e)$/;"	f
+print_options	flexalloc_cli_common.c	/^print_options(struct cli_option *options)$/;"	f
+print_slab_sgmt	flexalloc_mm.c	/^print_slab_sgmt(const struct flexalloc * fs)$/;"	f
+print_super	flexalloc_inspect.c	/^print_super(struct fla_super *super)$/;"	f
+psl	flexalloc_hash.h	/^  uint16_t psl;$/;"	m	struct:fla_htbl_entry
+recv	flexalloc_daemon_base.h	/^  struct fla_msg recv;$/;"	m	struct:fla_daemon_client	typeref:struct:fla_daemon_client::fla_msg
+recv_buf	flexalloc_daemon_base.h	/^  char recv_buf[FLA_MSG_BUFSIZ];$/;"	m	struct:fla_daemon_client
+refcount	flexalloc_mm.h	/^  uint32_t refcount; \/\/ TODO: should have a var in cache structure describing n_entries\/slab$/;"	m	struct:fla_slab_header
+root_obj_hndl	flexalloc_mm.h	/^  uint64_t root_obj_hndl;$/;"	m	struct:fla_pool_entry
+sbuf_nbytes	flexalloc_xnvme_env.c	/^  uint64_t sbuf_nbytes;$/;"	m	struct:fla_async_strp_cb_args	file:
+send	flexalloc_daemon_base.h	/^  struct fla_msg send;$/;"	m	struct:fla_daemon_client	typeref:struct:fla_daemon_client::fla_msg
+send_buf	flexalloc_daemon_base.h	/^  char send_buf[FLA_MSG_BUFSIZ];$/;"	m	struct:fla_daemon_client
+server	flexalloc_daemon_base.h	/^  struct sockaddr_un server;$/;"	m	struct:fla_daemon	typeref:struct:fla_daemon::sockaddr_un
+server_version	flexalloc_daemon_base.h	/^  struct fla_sys_identity server_version;$/;"	m	struct:fla_daemon_client	typeref:struct:fla_daemon_client::fla_sys_identity
+sigint_handler	flexalloc_daemon.c	/^sigint_handler(int _)$/;"	f	file:
+signature	flexalloc_uthash.h	/^  uint32_t signature; \/* used only to find hash tables in external analysis *\/$/;"	m	struct:UT_hash_table
+size	flexalloc_mm.h	/^  uint32_t size;$/;"	m	struct:fla_pool_htbl_header
+slab_cache	flexalloc.h	/^  struct fla_slab_flist_cache slab_cache;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_slab_flist_cache
+slab_id	flexalloc_shared.h	/^  uint32_t slab_id;$/;"	m	struct:fla_object
+slab_nlb	flexalloc.h	/^  uint32_t slab_nlb;$/;"	m	struct:fla_geo
+slab_nlb	flexalloc_mm.h	/^  uint32_t slab_nlb;$/;"	m	struct:fla_mkfs_p
+slab_nlb	flexalloc_mm.h	/^  uint32_t slab_nlb;$/;"	m	struct:fla_super
+slab_nobj	flexalloc_mm.h	/^  uint32_t slab_nobj;$/;"	m	struct:fla_pool_entry
+slab_sgmt	flexalloc.h	/^  struct fla_geo_slab_sgmt slab_sgmt;$/;"	m	struct:fla_geo	typeref:struct:fla_geo::fla_geo_slab_sgmt
+slab_sgmt_nlb	flexalloc.h	/^  uint32_t slab_sgmt_nlb;$/;"	m	struct:fla_geo_slab_sgmt
+slabs	flexalloc.h	/^  struct fla_slabs slabs;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_slabs
+slba	flexalloc_xnvme_env.c	/^  uint64_t slba;$/;"	m	struct:fla_async_strp_cb_args	file:
+sock_fd	flexalloc_daemon_base.h	/^  int sock_fd;$/;"	m	struct:fla_daemon_client
+sp	flexalloc_xnvme_env.c	/^  struct fla_strp_params *sp;$/;"	m	struct:fla_async_strp_cb_args_common	typeref:struct:fla_async_strp_cb_args_common::fla_strp_params	file:
+stat_insert_calls	flexalloc_hash.h	/^  unsigned int stat_insert_calls;$/;"	m	struct:fla_htbl
+stat_insert_failed	flexalloc_hash.h	/^  unsigned int stat_insert_failed;$/;"	m	struct:fla_htbl
+stat_insert_tries	flexalloc_hash.h	/^  unsigned int stat_insert_tries;$/;"	m	struct:fla_htbl
+state	flexalloc.h	/^  unsigned int state;$/;"	m	struct:flexalloc
+state	flexalloc_slabcache.h	/^  enum fla_slab_flist_elem_state state;$/;"	m	struct:fla_slab_flist_cache_elem	typeref:enum:fla_slab_flist_cache_elem::fla_slab_flist_elem_state
+strdup	flexalloc_util.c	/^strdup(char const *s)$/;"	f
+strnlen	flexalloc_util.c	/^strnlen(char *s, size_t maxlen)$/;"	f
+strp_chunk_nbytes	flexalloc_xnvme_env.h	/^  uint32_t strp_chunk_nbytes;$/;"	m	struct:fla_strp_params
+strp_nbytes	flexalloc_mm.h	/^  uint32_t strp_nbytes;$/;"	m	struct:fla_pool_entry
+strp_nobjs	flexalloc_mm.h	/^  uint32_t strp_nobjs;$/;"	m	struct:fla_pool_entry
+strp_nobjs	flexalloc_xnvme_env.h	/^  uint32_t strp_nobjs;$/;"	m	struct:fla_strp_params
+strp_obj_start_nbytes	flexalloc_xnvme_env.h	/^  uint64_t strp_obj_start_nbytes;$/;"	m	struct:fla_strp_params
+strp_obj_tnbytes	flexalloc_xnvme_env.h	/^  uint64_t strp_obj_tnbytes;$/;"	m	struct:fla_strp_params
+submitted	flexalloc_xnvme_env.c	/^  uint32_t submitted;$/;"	m	struct:fla_async_cb_args	file:
+super	flexalloc.h	/^  struct fla_super *super;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::fla_super
+sync	flexalloc_shared.h	/^  int (*sync)(struct flexalloc *fs);$/;"	m	struct:fla_fns
+tag	flexalloc_daemon_base.h	/^  uint16_t tag;$/;"	m	struct:fla_msg_header
+tail	flexalloc_uthash.h	/^  struct UT_hash_handle *tail; \/* tail hh in app order, for fast append    *\/$/;"	m	struct:UT_hash_table	typeref:struct:UT_hash_table::UT_hash_handle
+tbl	flexalloc_hash.h	/^  struct fla_htbl_entry *tbl;$/;"	m	struct:fla_htbl	typeref:struct:fla_htbl::fla_htbl_entry
+tbl	flexalloc_uthash.h	/^  struct UT_hash_table *tbl;$/;"	m	struct:UT_hash_handle	typeref:struct:UT_hash_handle::UT_hash_table
+tbl_size	flexalloc_hash.h	/^  unsigned int tbl_size;$/;"	m	struct:fla_htbl
+type	flexalloc.h	/^  enum xnvme_geo_type type;$/;"	m	struct:fla_geo	typeref:enum:fla_geo::xnvme_geo_type
+type	flexalloc_daemon_base.h	/^  uint32_t type;$/;"	m	struct:fla_sys_identity
+uint32_t	flexalloc_uthash.h	/^typedef unsigned int uint32_t;$/;"	t
+uint8_t	flexalloc_uthash.h	/^typedef unsigned char uint8_t;$/;"	t
+user_data	flexalloc.h	/^  void *user_data;$/;"	m	struct:flexalloc
+uthash_bzero	flexalloc_uthash.h	82;"	d
+uthash_expand_fyi	flexalloc_uthash.h	100;"	d
+uthash_fatal	flexalloc_uthash.h	121;"	d
+uthash_free	flexalloc_uthash.h	79;"	d
+uthash_malloc	flexalloc_uthash.h	76;"	d
+uthash_noexpand_fyi	flexalloc_uthash.h	97;"	d
+uthash_nonfatal_oom	flexalloc_uthash.h	111;"	d
+uthash_strlen	flexalloc_uthash.h	85;"	d
+val	flexalloc_hash.h	/^  uint32_t val;$/;"	m	struct:fla_htbl_entry
+validate_md_ptr_offsets	flexalloc_inspect.c	/^validate_md_ptr_offsets(struct flexalloc *fs)$/;"	f
+validate_pool_entries	flexalloc_inspect.c	/^validate_pool_entries(struct flexalloc *fs)$/;"	f
+validate_pool_num_entries	flexalloc_inspect.c	/^validate_pool_num_entries(struct flexalloc *fs)$/;"	f
+validate_super	flexalloc_inspect.c	/^validate_super(struct flexalloc *fs)$/;"	f
+verbose	flexalloc_mm.h	/^  uint8_t verbose;$/;"	m	struct:fla_mkfs_p
+version	flexalloc_daemon_base.h	/^  uint32_t version;$/;"	m	struct:fla_sys_identity
+write	flexalloc_xnvme_env.h	/^  bool write;$/;"	m	struct:fla_strp_params
+xfer_nbytes	flexalloc_xnvme_env.h	/^  uint64_t xfer_nbytes;$/;"	m	struct:fla_strp_params
+xfer_snbytes	flexalloc_xnvme_env.h	/^  uint64_t xfer_snbytes;$/;"	m	struct:fla_strp_params
+zone_number	flexalloc.h	/^  int zone_number;$/;"	m	struct:fla_zs_entry
+zs_size	flexalloc.h	/^  uint32_t zs_size;$/;"	m	struct:flexalloc
+zs_thead	flexalloc.h	/^  struct zs_thead zs_thead;$/;"	m	struct:flexalloc	typeref:struct:flexalloc::zs_thead

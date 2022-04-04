@@ -10,6 +10,10 @@ extern "C" {
 #define FLA_ERR_ERROR 1001
 #define FLA_ERR_ALL_SLABS_USED 2001
 
+// (jhpark): flashalloc
+// Erase uniat size in the Cosmos+ board in pages
+#define FLA_ERASE_SIZE_COSMOS 128 
+
 struct flexalloc;
 
 struct fla_pool;

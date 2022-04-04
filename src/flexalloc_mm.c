@@ -1451,10 +1451,12 @@ fla_object_write(struct flexalloc * fs, struct fla_pool const * pool_handle,
 
   // (jhpark): flashalloc
   struct xnvme_lba_range range_;  
-  if (obj->flashalloc_cnt == 128) { 
+  if (obj->flashalloc_cnt == -1
+      || obj->flashalloc_cnt == pool_entry->obj_nlb) {
+     
     obj->flashalloc_cnt = 1;
     range_ = xnvme_lba_range_from_offset_nbytes(fs->dev.dev, obj_soffset, w_len);   
-    err = xnvme_flashalloc(fs->dev.dev, range_.slba, 128);     
+    err = xnvme_flashalloc(fs->dev.dev, range_.slba, pool_entry->obj_nlb);     
     if (err) {   
       xnvmec_perr("xnvme_flashalloc()", err);
     }
